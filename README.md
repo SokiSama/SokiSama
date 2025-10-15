@@ -20,7 +20,7 @@ I’m also an otaku, and the anime I follow can be found under the 「追番」 
 - Hyperdimension Neptunia  
 - VRChat  
 
-## 🌐 Find Me
+## 💮 Find Me
 
 - 📝 [Blog](https://matsusatou.top)  
 - 💦 [Telegram Channel](https://t.me/satoushiro)  
