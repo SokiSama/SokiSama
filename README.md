@@ -5,7 +5,7 @@ In my free time, I write articles and upload them to my [blog](https://matsusato
 I also enjoy listening to music and playing games.  
 I’m also an otaku, and the anime I follow can be found under the 「追番」 section on my blog.
 
-## 🧰 Tech Stack
+## 🖥️ Tech Stack
 
 <p align="left">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000" alt="JavaScript" />
@@ -30,7 +30,7 @@ I’m also an otaku, and the anime I follow can be found under the 「追番」 
   <img src="https://img.shields.io/badge/Meta%20Horizon-0467DF?logo=meta&logoColor=fff" alt="Meta Horizon" />
 </p>
 
-## 🌐 Find Me
+## 💮 Find Me
 
 <p align="left">
   <a href="https://matsusatou.top">
