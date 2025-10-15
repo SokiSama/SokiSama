@@ -1,16 +1,45 @@
-## Hi there 👋
+# 👋 Hi there, I'm Soki
 
-<!--
-**SokiSama/SokiSama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m actually a **test engineer**, and coding is just my hobby — my skills are average, but I’m always eager to learn and improve.  
+In my free time, I write articles and upload them to my [blog](https://matsusatou.top).  
+I also enjoy listening to music and playing games.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎵 Music I Like
+
+- J-Pop  
+- Anime songs  
+- Chinese songs from before 2015  
+- Game soundtracks I enjoy  
+
+---
+
+## 🎮 Games I Like
+
+- FINAL FANTASY XIV  
+- Honkai: Star Rail  
+- Persona series  
+- Hyperdimension Neptunia  
+- VRChat  
+
+---
+
+---
+
+## 🌐 Find Me
+
+- 📝 [Blog](https://matsusatou.top)  
+- 💦 [Telegram Channel](https://t.me/satoushiro)
+- 🎮 [Steam](https://steamcommunity.com/id/SokiSama/)
+---
+
+## 📊 My GitHub Stats
+
+[![Soki's GitHub stats](https://github-readme-stats.vercel.app/api?username=SokiSama)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SokiSama)](https://github.com/anuraghazra/github-readme-stats)
+---
+
+
+⭐ *Thanks for visiting my profile!*
